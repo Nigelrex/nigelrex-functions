@@ -1,26 +1,27 @@
 {
-  "name": "@nigelrex/functions",
-  "version": "1.0.0",
-  "description": "All javascript functions needed",
-  "main": "index.js",
-  "typings": "index.d.ts",
-  "scripts": {
-    "test": "nodemon test.mjs"
-  },
-  "keywords": [
-    "functions",
-    "js",
-    "javascript",
-    "Nigelrex"
-  ],
-  "author": "Nigelrex",
-  "repository": {
-    "url": ""
-  },
-  "license": "ISC",
-  "dependencies": {
-    "fs-extra": "^10.0.1",
-    "lodash": "^4.17.21",
-    "picocolors": "github:alexeyraspopov/picocolors"
-  }
+	"name": "@nigelrex/functions",
+	"version": "1.0.0",
+	"description": "All javascript functions needed",
+	"main": "index.js",
+	"typings": "index.d.ts",
+	"scripts": {
+		"test": "nodemon test.mjs"
+	},
+	"keywords": [
+		"functions",
+		"js",
+		"javascript",
+		"Nigelrex"
+	],
+	"author": "Nigelrex",
+	"repository": {
+		"url": "https://github.com/Nigelrex/nigelrex-functions"
+	},
+	"document": "https://nigelrex.github.io/nigelrex-functions/",
+	"license": "ISC",
+	"dependencies": {
+		"fs-extra": "^10.0.1",
+		"lodash": "^4.17.21",
+		"picocolors": "github:alexeyraspopov/picocolors"
+	}
 }

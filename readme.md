@@ -46,4 +46,4 @@ Join my discord for help and support.
 
 ## Docs
 
-Check out the [Docs](https://nigelrex.github.io/)
+Check out the [Docs](https://nigelrex.github.io/nigelrex-functions/)
